@@ -3,3 +3,4 @@ Permite que os sinais recebidos por porta serial de Nunchuck controle um objeto 
 
 #Dependencias
 Depende do outro projeto dentro do meu proprio github "WiiNitendoNunchuckToSerial" 
+Maya 3d da autodesk
